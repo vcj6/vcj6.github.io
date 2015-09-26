@@ -117,7 +117,7 @@ body {
 
 ul li {
   padding-left: 20px;
-  background: transparent url(../images/chevron-2x.png) left 15px no-repeat;
+  background: red url(../images/chevron-2x.png) left 15px no-repeat;
 }
 
 table {
